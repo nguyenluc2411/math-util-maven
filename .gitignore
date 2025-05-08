@@ -10,6 +10,7 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+target/
 
 # End of https://www.toptal.com/developers/gitignore/api/netbeans
 # Được tạo bởi https://www.toptal.com/developers/gitignore/api/netbeans# chỉnh sửa tại https://www.toptal.com/develop **/nbproject/gói-*.
